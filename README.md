@@ -7,8 +7,6 @@ Build a PHP Environment. If you use CentOS 7,
 # Installation.
 ```
 # cd /var/www/html
-# mkdir json_outputter
-# cd json_outputter
 # git clone https://github.com/KunioHayakawa/json_outputter.git
 ```
 
